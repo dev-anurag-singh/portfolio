@@ -27,7 +27,7 @@ export const HeroSection = () => {
               </Link>
             </div>
           </div>
-          <div className='flex justify-center max-w-[25rem]  lg:max-w-[30rem] xl:max-w-[35rem] 2xl:max-w-[35rem] '>
+          <div className='flex justify-center max-w-[25rem]  lg:max-w-[30rem] xl:max-w-[34rem]'>
             <Image
               src='/images/anurag.png'
               alt="Anurag's Picture"
